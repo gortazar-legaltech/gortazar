@@ -24,3 +24,5 @@ gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-multiple-languages-plugin"
 gem "webrick" # Necesario para servir en local
+gem "jekyll-remote-theme"
+gem "jekyll-paginate"
